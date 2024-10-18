@@ -14,8 +14,7 @@ My task was to create a Python script that analyzes the records to calculate eac
 
 *The greatest decrease in profits (date and amount) over the entire period
 
-#
-#PyPoll Project
+##PyPoll Project
 
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
