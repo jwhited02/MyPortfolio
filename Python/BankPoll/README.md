@@ -29,10 +29,3 @@ PyPoll Instructions:
     In addition, your final script should both print the analysis to the terminal and export a text file with the results."
 
 
-
-This challenge was definitely pretty difficult and took a lot of time, but I feel like I learned a ton while trying to figure it out. 
-
-The most challenging part for me was definitely pypoll and forming the for loop to list the candidates and their votes. The way I did it seems to work, so hopefully thats what you were looking for. 
-
-Thanks for your time!
--Jackson
