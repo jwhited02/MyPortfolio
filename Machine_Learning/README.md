@@ -26,5 +26,5 @@ The feature variables used in the model include:
 #### Removed Variables:
 - The `EIN` and `NAME` columns were removed from the dataset because they are identification numbers that do not contribute to the prediction.
 
-Google Colab was used to complete this project, and it is recommended to run this code. 
+##### Google Colab was used to complete this project, and it is recommended to run this program. 
 ---
